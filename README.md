@@ -1,7 +1,7 @@
 # My ML/DL Projects
 
 This repository contains various machine learning and deep learning projects for personal practice, experimentation, and learning.  
-Some projects are built from tutorials and research papers, and some are my own original code.
+Some projects are built from public tutorials and some are my own original code.
 
 ## Project Structure
 
