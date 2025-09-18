@@ -6,16 +6,15 @@ Some projects are built from tutorials and research papers, and some are my own 
 ## Project Structure
 
 - `Fooocus-Local-Image-Generator/`  
-  Contains code from the (https://github.com/lllyasviel/Fooocus) project.  
-  **License:** GNU General Public License v3.0.  
-
+  Contains code from the [Fooocus](https://github.com/lllyasviel/Fooocus) project.  
+  **License:** GNU General Public License v3.0.
 - Other folders/projects  
-  My own code, tutorials' code, and experiments with ML/DL models.
+  Contains my own ML/DL and general AI experiments and adventures as well as code derived or adapted from public tutorials or GitHub projects.  
 
 ## License
 
 - Projects derived from or containing third-party code follow their respective licenses.  
-- My own projects (unless stated otherwise) are [MIT] licensed.  
+- My own projects (unless stated otherwise) are licensed under [MIT License](LICENSE).   
 
 ## Notes
 
