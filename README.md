@@ -5,7 +5,7 @@ Some projects are built from public tutorials and some are my own original code.
 
 ## Project Structure
 
-- `Fooocus-Local-Image-Generator/`  
+- `Fooocus_Local_Image_Generator/`  
   Contains code from the [Fooocus](https://github.com/lllyasviel/Fooocus) project.  
   **License:** GNU General Public License v3.0.
 - Other folders/projects  
